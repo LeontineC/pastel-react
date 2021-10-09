@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pastel-react/static/css/main.1eeb10e7.chunk.css",
-    "main.js": "/pastel-react/static/js/main.ddb6ca11.chunk.js",
-    "main.js.map": "/pastel-react/static/js/main.ddb6ca11.chunk.js.map",
+    "main.js": "/pastel-react/static/js/main.12f1faf6.chunk.js",
+    "main.js.map": "/pastel-react/static/js/main.12f1faf6.chunk.js.map",
     "runtime-main.js": "/pastel-react/static/js/runtime-main.1e37a668.js",
     "runtime-main.js.map": "/pastel-react/static/js/runtime-main.1e37a668.js.map",
     "static/js/2.53f06ff5.chunk.js": "/pastel-react/static/js/2.53f06ff5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1e37a668.js",
     "static/js/2.53f06ff5.chunk.js",
     "static/css/main.1eeb10e7.chunk.css",
-    "static/js/main.ddb6ca11.chunk.js"
+    "static/js/main.12f1faf6.chunk.js"
   ]
 }
